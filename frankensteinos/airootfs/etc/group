@@ -1,0 +1,5 @@
+root:x:0:root
+adm:x:4:frank
+wheel:x:10:frank
+uucp:x:14:frank
+frank:x:1000:
