@@ -1,0 +1,2 @@
+alias mkfrankiso='mkarchiso -v -w frankensteinos/ -o ~/Documents/ frankensteinos/ -C frankensteinos/airootfs/etc/pacman.conf'
+alias cleanfrank='cd frankensteinos && rm -rf base._* build* efiboot.img iso iso._build_iso_image x86_64/airootfs/* loader iso*'
