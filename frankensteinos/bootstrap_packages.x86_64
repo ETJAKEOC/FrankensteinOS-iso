@@ -1,3 +1,7 @@
 arch-install-scripts
 base
 base-devel
+linux-tkg-eevdf
+clang
+lld
+llvm
