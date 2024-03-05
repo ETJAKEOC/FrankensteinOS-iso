@@ -1,0 +1,9 @@
+# mkinitcpio preset file for the 'linux-tkg-eevdf' package
+
+PRESETS=('archiso')
+
+ALL_config="/etc/mkinitcpio.conf"
+ALL_kver="/boot/vmlinuz-linux-tkg-eevdf"
+ALL_microcode=(/boot/*ucode*)
+
+archiso_image="/boot/initramfs-linux.img"
