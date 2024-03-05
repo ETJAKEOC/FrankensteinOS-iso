@@ -98,6 +98,7 @@ rp-pppoe
 rsync
 rxvt-unicode-terminfo
 screen
+sddm
 sdparm
 sequoia-sq
 sg3_utils
@@ -222,3 +223,12 @@ qt6-webengine
 qt6-websockets
 qt6-webview
 quazip-qt5
+kwayland
+kwayland-integration
+kwayland5
+lib32-wayland
+qt5-wayland
+qt6-wayland
+wayland
+wayland-utils
+xorg-xwayland
